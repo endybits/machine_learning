@@ -1,0 +1,3 @@
+# Machine Learning from Scratch to Data Scientist
+
+Nowadays, Data Science has become in a too robust IT topic for one person. Machine Learning is a topic that contributes as a relevant part of the Data Science, because It ... 
