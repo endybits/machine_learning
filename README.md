@@ -6,7 +6,7 @@ In this sense, Machine Learning makes its significant contribution to Data Scien
 
 Maybe you have a question about the scope of the Machine Learning component in Data Science. Keep calm, a diagram will solve it.
 
-***...Put an image here.***
+![Data Scicence methodology representation](https://github.com/endybits/machine_learning/blob/main/regression/asset/ML_and_Ds_model.png)
 
 ## The Data Science Methodology
 
