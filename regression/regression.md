@@ -16,4 +16,5 @@ $Y = \beta_{0} + \beta_{1}X$
 Donde $Y$ es el valor a predecir y $X$ es la variable independite o predictora.
 $\beta_{0}$ es el intersepto o el punto donde se corta la $Y$ cuando $X$ tiene un valor de cero. Imaginemos por ejemplo un cargo fijo, el valor fijo que cobra un cab driver justo cuando el pasajero se monta en el vehículo y todavía no ha empezado a andar.
 El coeficiente $\beta_{1}$ es, por otro lado, la pendiente o el grado de variación del valor de $Y$ por cada unidad de medida de $X$. En nuestro ejemplo, indica cuánto aumenta el precio del cab_service por cada kilómetro recorrido.
-
+Entonces para entender mejor nuestra fórmula podríamos decir que:
+$cabServicePrice = \beta_{0} + \beta_{1}(tripDistance)$
