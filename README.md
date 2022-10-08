@@ -10,7 +10,7 @@ Maybe you have a question about the scope of the Machine Learning component in D
 
 ## The Data Science Methodology
 
-In the image above, I try to simplify the methodology proposed by IBM, because the idea that brings us together is to deepen the role of Machine Learning in the Data Science process. 
+In the image above, I try to simplify the methodology proposed by IBM, because the idea that brings us together is to deepen the role of Machine Learning in the Data Science process.
 
 However, I’ll try to make a minimum approximation to each component:
 
@@ -26,11 +26,11 @@ To achieve this, some underlying stages are provided.
 - Data cleaning and preparation
 - Data visualization: identify hidden patterns and provide insights.
 - Data segmentation for training and testing.
- 
-It’s important to note that in some cases It is necessary to go back to the previous steps to improve the data quality. 
+
+It’s important to note that in some cases It is necessary to go back to the previous steps to improve the data quality.
 
 #### Machine learning component:
-Before listing a step by step of this component, It’s important to explain that Machine Learning is the piece that brings Artificial Intelligence to life (As a song is to music or a poem is to poetry). 
+Before listing a step by step of this component, It’s important to explain that Machine Learning is the piece that brings Artificial Intelligence to life (As a song is to music or a poem is to poetry).
 
 Artificial Intelligence went from being a utopia in the heads of some academics who conceived the idea that machines could simulate patterns of behavior similar to those of a human brain; to which we can easily explain today by evidencing that a machine, through a large volume of data, can identify patterns that lead it to predict behaviors, forecast the weather, identify objects, translate texts, recognize faces and drive themselves.
 
@@ -42,7 +42,7 @@ An ideal order could be as follows:
 
 **Train the model:** Do you remember that in the previous component I told you about data segmentation? The largest percentage of data is used to train the model. That is, learn to identify the common patterns between data features and the target variable.
 
-**Test the model:** Usually, the remaining data percentage is used to check if the model works correctly. This technique consists of testing the model with data that It has not yet seen, but that we know, so that It makes its predictions. An advantage in our favor is that we can measure the accuracy of the model’s prediction against the known data in the test segment. 
+**Test the model:** Usually, the remaining data percentage is used to check if the model works correctly. This technique consists of testing the model with data that It has not yet seen, but that we know, so that It makes its predictions. An advantage in our favor is that we can measure the accuracy of the model’s prediction against the known data in the test segment.
 :tada:*It's amazing!!!*:tada:
 
 Before closing, It’s important to mention that when the accuracy of the prediction is too low, regarding the data test, It’s extremely necessary to re-thinking the model and, maybe change it, or even return to the previous components to identify possible causes and correct them. 
