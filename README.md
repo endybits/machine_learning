@@ -38,13 +38,13 @@ Artificial Intelligence went from being a utopia in the heads of some academics 
 Now, let’s talk a little bit about its role in Data Science. Machine learning team receives the previously processed data, and puts it through a series of internal steps within this componente, to get results as accurate as possible.
 An ideal order could be as follows:
 
-**Choose a training method:** In this step it is crucial to know about what the target is, because It will be the starting point to know if we will use a Regression, a Decision Tree, a Clustering nearest neighbor, among others. (Missing to link a real example to each model)
+**Choose a training method:** In this step it is crucial to know about what the target is, because It will be the starting point to know if we will use a [Regression](https://github.com/endybits/machine_learning/tree/main/regression) :rocket:, a Decision Tree :cactus:, a Clustering nearest neighbor :notes:, among others. (Missing to link a real example to each model)
 
 **Train the model:** Do you remember that in the previous component I told you about data segmentation? The largest percentage of data is used to train the model. That is, learn to identify the common patterns between data features and the target variable.
 
 **Test the model:** Usually, the remaining data percentage is used to check if the model works correctly. This technique consists of testing the model with data that It has not yet seen, but that we know, so that It makes its predictions. An advantage in our favor is that we can measure the accuracy of the model’s prediction against the known data in the test segment.
 :tada:*It's amazing!!!*:tada:
 
-Before closing, It’s important to mention that when the accuracy of the prediction is too low, regarding the data test, It’s extremely necessary to re-thinking the model and, maybe change it, or even return to the previous components to identify possible causes and correct them. 
+Before closing, It’s important to mention that when the accuracy of the prediction is too low, regarding the data test, It’s extremely necessary to re-thinking the model and, maybe change it, or even return to the previous components to identify possible causes and correct them.
 
 Finally, when the Machine Learning model has achieved a high level of accuracy, it is put into production in some service or application to respond in real time if an user is eligible for a home loan, how much the sales of a product will increase in relation to the marketing investment, What is the estimated salary to a new employee based on the education level and job experience, or any other question that no one has asked yet, and It’s inside your head waiting for your genius.
