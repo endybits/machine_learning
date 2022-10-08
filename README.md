@@ -38,7 +38,7 @@ Artificial Intelligence went from being a utopia in the heads of some academics 
 Now, let’s talk a little bit about its role in Data Science. Machine learning team receives the previously processed data, and puts it through a series of internal steps within this componente, to get results as accurate as possible.
 An ideal order could be as follows:
 
-**Choose a training method:** In this step it is crucial to know about what the target is, because It will be the starting point to know if we will use a [Regression](https://github.com/endybits/machine_learning/tree/main/regression) :rocket:, a Decision Tree :cactus:, a Clustering nearest neighbor :notes:, among others. (Missing to link a real example to each model)
+**Choose a training method:** In this step it is crucial to know about what the target is, because It will be the starting point to know if we will use a [Regression](https://github.com/endybits/machine_learning/tree/main/regression) :rocket:, or a Decision Tree :cactus:, or a Clustering nearest neighbor :notes:, or any other method. (Missing to link a real example to each model)
 
 **Train the model:** Do you remember that in the previous component I told you about data segmentation? The largest percentage of data is used to train the model. That is, learn to identify the common patterns between data features and the target variable.
 
